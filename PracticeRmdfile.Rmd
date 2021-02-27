@@ -1,0 +1,16 @@
+---
+title: "PracticeRmdfile"
+author: "James Dickens"
+date: "2/27/2021"
+output: word_document
+---
+
+```{r}
+
+library(tidyverse)
+diamonds
+
+
+
+```
+
